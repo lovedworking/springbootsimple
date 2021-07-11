@@ -1,0 +1,12 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /springbootyml
+
+spring:
+  profiles:
+    active:
+
+configinfo:
+  age: 20
+  name: xiaoming
